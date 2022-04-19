@@ -1,2 +1,4 @@
-# Projeto1
-Primeiro Repositório Git/GitHub
+# Projeto Philips Fullstack Developer
+### *Conteudo Cursado
+### *Conteudo da semana
+### *Mentorias
